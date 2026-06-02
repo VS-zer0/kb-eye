@@ -1,0 +1,16 @@
+[
+  {
+    "id": "home_row",
+    "kind": 0,
+    "unlock_accuracy": 0.0,
+    "unlock_wpm": 0.0,
+    "depends_on": []
+  },
+  {
+    "id": "frequent_words",
+    "kind": 2,
+    "unlock_accuracy": 0.80,
+    "unlock_wpm": 20.0,
+    "depends_on": ["home_row"]
+  }
+]

@@ -1,0 +1,6 @@
+{
+  "tmk_port": 5760,
+  "gtm_port": 5765,
+  "launch_gtm": false,
+  "sequencer_path": "exercises.json"
+}
